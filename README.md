@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Python Developer**, with 4 years of professional experience, specializing in **Backend Development** and **Process Automation**.
+I'm a **Python Developer**, specializing in **Backend Development** and **Process Automation**.
 
 My Technical Setup:
  - 🐧 <ins>**OS**</ins>: [Xubuntu 24.04](https://github.com/xubuntu)
