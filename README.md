@@ -2,10 +2,10 @@
 
 I'm a **Python Developer**, specializing in **Backend Development** and **Process Automation**.
 
-My Technical Setup:
+My Technical Stack:
  - 🐧 <ins>**OS**</ins>: [Xubuntu 24.04](https://github.com/xubuntu)
  - 🖥️ <ins>**Terminal**</ins>: ⚡ [Tilix](https://github.com/gnunn1/tilix), 🐚 [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
- - 📝 <ins>**Text Editors**</ins>: 🇻 [Vim](https://github.com/vim/vim), 🧑‍💻 [VS Code](https://github.com/microsoft/vscode)
+ - 📝 <ins>**Code Editors**</ins>: 🇻 [Vim](https://github.com/vim/vim), 🧑‍💻 [VS Code](https://github.com/microsoft/vscode)
  - 🌐 <ins>**Web Browsers**</ins>: 🦊 [Firefox](https://github.com/mozilla-firefox/firefox), 🔵 [Chromium](https://github.com/chromium/chromium)
  - 🐍 <ins>**Python Stack**</ins>:
    - **Version**: 3.12
