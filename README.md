@@ -7,8 +7,7 @@ My Technical Stack:
  - 🖥️ <ins>**Terminal**</ins>: ⚡ [Tilix](https://github.com/gnunn1/tilix), 🐚 [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
  - 📝 <ins>**Code Editors**</ins>: 🇻 [Vim](https://github.com/vim/vim), 🧑‍💻 [VS Code](https://github.com/microsoft/vscode)
  - 🌐 <ins>**Web Browsers**</ins>: 🦊 [Firefox](https://github.com/mozilla-firefox/firefox), 🔵 [Chromium](https://github.com/chromium/chromium)
- - 🐍 <ins>**Python Stack**</ins>:
-   - **Version**: 3.12
+ - 🐍 <ins>**Python3 Stack**</ins>:
    - 📦 **Packages and Project Management**: [UV](https://github.com/astral-sh/uv)
    - ⚡ **Frameworks and Libraries**: [FastAPI](https://github.com/fastapi/fastapi), [Flask](https://github.com/pallets/flask), [Django](https://github.com/django/django) + [DRF](https://github.com/encode/django-rest-framework)
    - 🔍 **Linting and Formatting**: [Ruff](https://github.com/astral-sh/ruff)
