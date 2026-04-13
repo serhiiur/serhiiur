@@ -3,17 +3,17 @@
 I'm a **Python Developer**, specializing in **Backend Development** and **Process Automation**.
 
 My Technical Stack:
- - 🐧 <ins>**OS**</ins>: [Xubuntu 24.04](https://github.com/xubuntu)
- - 🖥️ <ins>**Terminal**</ins>: ⚡ [Tilix](https://github.com/gnunn1/tilix), 🐚 [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
- - 📝 <ins>**Code Editors**</ins>: 🇻 [Vim](https://github.com/vim/vim), 🧑‍💻 [VS Code](https://github.com/microsoft/vscode)
- - 🌐 <ins>**Web Browsers**</ins>: 🦊 [Firefox](https://github.com/mozilla-firefox/firefox), 🔵 [Chromium](https://github.com/chromium/chromium)
- - 🐍 <ins>**Python3 Stack**</ins>:
+ - 🐧 **OS**: [Xubuntu 24.04](https://github.com/xubuntu)
+ - 🖥️ **Terminal**: ⚡ [Tilix](https://github.com/gnunn1/tilix), 🐚 [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
+ - 📝 **Code Editors**: 🇻 [Vim](https://github.com/vim/vim), 🧑‍💻 [VS Code](https://github.com/microsoft/vscode)
+ - 🌐 **Web Browsers**: 🦊 [Firefox](https://github.com/mozilla-firefox/firefox), 🔵 [Chromium](https://github.com/chromium/chromium)
+ - 🐍 **Python3 Stack**:
    - 📦 **Packages and Project Management**: [UV](https://github.com/astral-sh/uv)
    - ⚡ **Frameworks and Libraries**: [FastAPI](https://github.com/fastapi/fastapi), [Flask](https://github.com/pallets/flask), [Django](https://github.com/django/django) + [DRF](https://github.com/encode/django-rest-framework)
    - 🔍 **Linting and Formatting**: [Ruff](https://github.com/astral-sh/ruff)
    - 🏷️ **Type Checking**: [Mypy](https://github.com/python/mypy) / [Ty](https://github.com/astral-sh/ty)
    - 🧪 **Testing Frameworks**: [Pytest](https://github.com/pytest-dev/pytest)
- - 🤖 <ins>**AI Tools**</ins>: [Copilot](https://github.com/copilot), [Claude](https://github.com/anthropics/claude-code)
+ - 🤖 **AI Tools**: [Copilot](https://github.com/copilot), [Claude](https://github.com/anthropics/claude-code)
 
 
 <!--
