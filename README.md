@@ -2,6 +2,8 @@
 
 I'm a **Python Software Engineer**, specializing in **Backend Development** and **Automation**.
 
+I'm currently working on some private projects focusing on expanding and deepening my software engineering expertise, specifically backend development.
+
 My Technical Stack:
  - 🐧 **OS**: [Xubuntu 24.04](https://github.com/xubuntu)
  - 🖥️ **Terminal**: ⚡ [Tilix](https://github.com/gnunn1/tilix), 🐚 [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
