@@ -14,6 +14,7 @@ My Technical Stack:
    - 🏷️ **Type Checking**: [Mypy](https://github.com/python/mypy) / [Ty](https://github.com/astral-sh/ty)
    - 🧪 **Testing Frameworks**: [Pytest](https://github.com/pytest-dev/pytest)
  - 🤖 **AI Tools**: [Copilot](https://github.com/copilot), [Claude](https://github.com/anthropics/claude-code)
+ - ☁️ Cloud Computing: 🟧 AWS
 
 
 <!--
