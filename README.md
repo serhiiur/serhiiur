@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Python Developer**, specializing in **Backend Development** and **Process Automation**.
+I'm a **Python Software Engineer**, specializing in **Backend Development** and **Automation**.
 
 My Technical Stack:
  - 🐧 **OS**: [Xubuntu 24.04](https://github.com/xubuntu)
