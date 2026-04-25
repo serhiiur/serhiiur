@@ -2,8 +2,6 @@
 
 I'm a **Python Backend Developer**.
 
-I'm currently working on some projects focusing on expanding and deepening my software engineering expertise.
-
 My Technical Stack:
  - 🐧 **OS**: [Xubuntu 24.04](https://github.com/xubuntu)
  - 🖥️ **Terminal**: ⚡ [Tilix](https://github.com/gnunn1/tilix), 🐚 [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
