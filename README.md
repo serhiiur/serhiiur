@@ -11,7 +11,7 @@ My Technical Stack:
  - 🌐 **Web Browsers**: 🦊 [Firefox](https://github.com/mozilla-firefox/firefox), 🔵 [Chromium](https://github.com/chromium/chromium)
  - 🐍 **Python3 Stack**:
    - 📦 **Packages and Project Management**: [UV](https://github.com/astral-sh/uv)
-   - ⚡ **Frameworks and Libraries**: [FastAPI](https://github.com/fastapi/fastapi), [AioHttp](https://github.com/aio-libs/aiohttp), [Flask](https://github.com/pallets/flask), [Django](https://github.com/django/django) + [DRF](https://github.com/encode/django-rest-framework)
+   - ⚡ **Frameworks and Libraries**: [FastAPI](https://github.com/fastapi/fastapi), [AioHttp](https://github.com/aio-libs/aiohttp), [Flask](https://github.com/pallets/flask), [Django](https://github.com/django/django) + [DRF](https://github.com/encode/django-rest-framework), [Scrapy](https://github.com/scrapy/scrapy)
    - 🔍 **Linting and Formatting**: [Ruff](https://github.com/astral-sh/ruff)
    - 🏷️ **Type Checking**: [Mypy](https://github.com/python/mypy) / [Ty](https://github.com/astral-sh/ty)
    - 🧪 **Testing Frameworks**: [Pytest](https://github.com/pytest-dev/pytest)
