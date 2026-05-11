@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Python Backend Developer**.
+I'm a **Python Software Engineer**.
 
 My Technical Stack:
  - 🐧 **OS**: [Xubuntu 24.04](https://github.com/xubuntu)
