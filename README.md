@@ -14,8 +14,8 @@ Here is my environment setup and technical stack:
    - 🏷️ **Type Checking**: [Mypy](https://github.com/python/mypy) / [Ty](https://github.com/astral-sh/ty)
    - 🧪 **Testing Frameworks**: [Pytest](https://github.com/pytest-dev/pytest)
  - 🤖 **AI Tools**: ✴️ [Claude Code](https://github.com/anthropics/claude-code), :copilot: [Github Copilot](https://github.com/copilot)
+ - ☁️ Cloud Computing: 🟧 [AWS](https://aws.amazon.com/)
  - 🛠️ Infrastructure as Code: [Terraform](https://github.com/hashicorp/terraform)
- - ☁️ Cloud Computing: 🟧 AWS
 
 
 <!--
