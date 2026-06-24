@@ -2,7 +2,7 @@
 
 I'm a **Python Software Engineer**.
 
-My Technical Stack:
+Here is my environment setup and technical stack:
  - 🐧 **OS**: [Xubuntu 24.04](https://github.com/xubuntu)
  - 🖥️ **Terminal**: ⚡ [Tilix](https://github.com/gnunn1/tilix), 🐚 [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
  - 📝 **Code Editors**: 🇻 [Vim](https://github.com/vim/vim), 🧑‍💻 [VS Code](https://github.com/microsoft/vscode)
@@ -13,7 +13,8 @@ My Technical Stack:
    - 🔍 **Linting and Formatting**: [Ruff](https://github.com/astral-sh/ruff)
    - 🏷️ **Type Checking**: [Mypy](https://github.com/python/mypy) / [Ty](https://github.com/astral-sh/ty)
    - 🧪 **Testing Frameworks**: [Pytest](https://github.com/pytest-dev/pytest)
- - 🤖 **AI Tools**: :copilot: [Copilot](https://github.com/copilot), ✴️ [Claude](https://github.com/anthropics/claude-code)
+ - 🤖 **AI Tools**: ✴️ [Claude Code](https://github.com/anthropics/claude-code), :copilot: [Github Copilot](https://github.com/copilot)
+ - 🛠️ Infrastructure as Code: [Terraform](https://github.com/hashicorp/terraform)
  - ☁️ Cloud Computing: 🟧 AWS
 
 
